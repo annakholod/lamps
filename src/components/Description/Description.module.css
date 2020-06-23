@@ -1,0 +1,117 @@
+.overlay {
+  position: relative;
+  padding: 30px 10px;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+.overlay::before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  content: "";
+  width: 100%;
+  height: 6px;
+  max-width: 1160px;
+  background-color: #ffcc00;
+}
+
+.title {
+  padding: 0;
+  margin: 0 0 26px 0;
+  font-size: 30px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.titleDecor {
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.imgWoman {
+  margin: 0 auto 20px auto;
+  max-width: 275px;
+}
+
+.imgGirl {
+  display: none;
+}
+
+.description {
+  padding: 0;
+  margin: 0 0 20px 0;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.titleFeatures {
+  padding: 0;
+  margin: 0;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.featuresName {
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.featuresValue {
+  color: #666666;
+}
+
+@media (min-width: 640px) {
+  .container {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .photos {
+    margin-right: 30px;
+    width: 430px;
+  }
+
+  .imgWoman {
+    width: 230px;
+  }
+
+  .imgGirl {
+    display: block;
+    width: 230px;
+  }
+
+  .overlayDescr {
+    max-width: 1200px;
+  }
+}
+
+@media (min-width: 768px) {
+  .overlay {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .photos {
+    margin-right: 40px;
+    width: 270px;
+  }
+
+  .imgWoman {
+    margin: 0 auto 20px 0;
+  }
+}
+
+@media (min-width: 1200px) {
+  .overlay {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0 auto;
+  }
+
+  .overlay::before {
+    left: 20px;
+  }
+}

@@ -1,0 +1,305 @@
+.listItem {
+  margin-bottom: 26px;
+}
+
+.title {
+  padding: 0;
+  margin: 0 0 10px 0;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.titleDecor {
+  padding: 0 6px;
+  font-weight: 900;
+  background-color: #fabc0f;
+}
+
+.mainPhotoOverlay {
+  position: relative;
+  margin: 0 auto 10px auto;
+  height: 300px;
+}
+
+.btnPrev,
+.btnNext {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  padding: 0;
+  margin: 0;
+  width: 40px;
+  height: 40px;
+  border: none;
+  background: none;
+  background-color: #d2d2d2;
+  border-radius: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  cursor: pointer;
+  outline: none;
+}
+
+.btnPrev {
+  left: 0;
+  background-image: url(../../img/prev.png);
+}
+
+.btnNext {
+  right: 0;
+  background-image: url(../../img/next.png);
+}
+
+.btnPrev:hover,
+.btnPrev:focus,
+.btnNext:hover,
+.btnNext:focus {
+  background-color: #9c9b9b;
+}
+
+.mainPhoto {
+  margin: 0 auto;
+  height: 100%;
+  object-fit: contain;
+}
+
+.photosList {
+  display: flex;
+  padding: 0;
+  margin: 0 auto 10px auto;
+  width: 300px;
+  height: 74px;
+  list-style: none;
+  overflow-x: auto;
+}
+
+.photosList::-webkit-scrollbar-track {
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  background-color: #ecedee;
+}
+
+.photosList::-webkit-scrollbar-thumb {
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  background-color: rgba(141, 141, 141, 0.7);
+}
+
+.photosList::-webkit-scrollbar-thumb:hover {
+  background-color: rgb(141, 141, 141);
+}
+
+.photosList::-webkit-scrollbar {
+  width: 100%;
+  height: 10px;
+}
+
+.photosListItem {
+  position: relative;
+  cursor: pointer;
+}
+
+.opacityOverlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.photosListItem:hover .opacityOverlay,
+.photosListItem:focus .opacityOverlay {
+  background: none;
+}
+
+.galleryPhoto {
+  min-width: 56px;
+  max-width: 56px;
+  height: 56px;
+  object-fit: contain;
+}
+
+.description {
+  padding: 0;
+  margin: 0 0 20px 0;
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.colorName {
+  padding: 0;
+  margin: 0 0 16px 0;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 500;
+  text-transform: capitalize;
+}
+
+.color {
+  display: none;
+}
+
+.colors {
+  display: flex;
+  align-items: baseline;
+}
+
+.listColors {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+  margin: 0;
+  max-width: 350px;
+  list-style: none;
+}
+
+.listColorsItem {
+  padding: 0;
+  margin: 6px;
+  width: 30px;
+  height: 30px;
+}
+
+.listColorsItemBtn {
+  position: relative;
+  padding: 0;
+  margin: 0;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  cursor: pointer;
+  outline: none;
+}
+
+.listColorsItemBtn:hover,
+.listColorsItemBtn:focus {
+  border: 1px solid rgb(148, 148, 148);
+}
+
+.iconLightTheme,
+.iconDarkTheme {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  padding: 0;
+  margin: 0;
+  font-size: 14px;
+}
+
+.iconLightTheme {
+  color: #000;
+}
+
+.iconDarkTheme {
+  color: #fff;
+}
+
+@media (min-width: 560px) {
+  .title {
+    margin: 0 0 20px 0;
+    font-size: 24px;
+    line-height: 28px;
+  }
+
+  .listItemWrapper {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .mainPhotoOverlay {
+    width: 280px;
+    height: 280px;
+  }
+
+  .photos {
+    margin-right: 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  .title {
+    font-size: 30px;
+    line-height: 34px;
+  }
+
+  .mainPhotoOverlay {
+    width: 300px;
+    height: 300px;
+  }
+
+  .btnPrev,
+  .btnNext {
+    width: 32px;
+    height: 32px;
+  }
+
+  .description {
+    font-size: 14px;
+  }
+
+  .colorName {
+    font-size: 14px;
+  }
+
+  .color {
+    display: block;
+    margin-right: 14px;
+  }
+
+  .listColorsItem {
+    margin: 4px;
+    width: 26px;
+    height: 26px;
+  }
+
+  .listColorsItemBtn {
+    width: 26px;
+    height: 26px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .listColorsItem {
+    margin: 2px;
+    width: 22px;
+    height: 22px;
+  }
+
+  .listColorsItemBtn {
+    width: 22px;
+    height: 22px;
+  }
+
+  .photos {
+    margin-right: 50px;
+  }
+
+  .btnPrev,
+  .btnNext {
+    display: none;
+  }
+
+  .mainPhotoOverlay:hover .btnPrev,
+  .mainPhotoOverlay:focus .btnPrev,
+  .mainPhotoOverlay:hover .btnNext,
+  .mainPhotoOverlay:focus .btnNext {
+    display: block;
+    width: 28px;
+    height: 28px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .listItem {
+    width: 49%;
+  }
+
+  .photos {
+    margin-right: 20px;
+  }
+}

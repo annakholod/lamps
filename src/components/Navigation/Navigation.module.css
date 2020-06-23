@@ -1,0 +1,152 @@
+.navigation {
+  padding: 0 20px 20px 20px;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.menuList {
+  display: flex;
+  justify-content: flex-start;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.listItem {
+  padding: 0 16px;
+}
+
+.listItem:first-child {
+  padding-left: 0;
+}
+
+.listItem:last-child {
+  padding-right: 0;
+}
+
+.listItem:hover .titleLamps,
+.listItem:focus .titleLamps,
+.listItem:hover .titleTypeLamp,
+.listItem:focus .titleTypeLamp {
+  color: #fff;
+}
+
+.listItem:hover .title,
+.listItem:focus .title {
+  text-shadow: 0 0 1px rgba(0, 0, 0, 0.8);
+}
+
+.listItemLamp:hover .listLamps,
+.listItemLamp:focus .listLamps {
+  box-shadow: -4px 4px 8px rgba(0, 0, 0, 0.4);
+}
+
+.listItemLamp:hover .titleLamps,
+.listItemLamp:focus .titleLamps {
+  text-shadow: 0 0 1px rgba(255, 255, 255, 0.8);
+}
+
+.title {
+  padding: 0;
+  margin: 0;
+  font-size: 18px;
+  line-height: 52px;
+  font-weight: 500;
+  color: #000;
+  text-transform: uppercase;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.titleLamps {
+  padding: 0;
+  margin: 0;
+  font-size: 18px;
+  line-height: 52px;
+  font-weight: 500;
+  color: #000;
+  text-transform: uppercase;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.btnCompare {
+  width: 46px;
+  height: 36px;
+  background-image: url(../../img/compare.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  cursor: pointer;
+}
+
+.listItemLamp {
+  position: relative;
+}
+
+.listItemLamp:hover,
+.listItemLamp:focus {
+  background-color: rgba(250, 188, 15, 0.9);
+}
+
+.lampsOverlay {
+  display: flex;
+  align-items: center;
+}
+
+.iconExpends {
+  margin-left: 12px;
+  width: 18px;
+  height: 12px;
+  background-image: url(../../img/expand_less.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.listItemLamp:hover .iconExpends {
+  background-image: url(../../img/expand_more.png);
+}
+
+.listLamps {
+  display: none;
+  position: absolute;
+  top: 52px;
+  left: 0;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  list-style: none;
+}
+
+.listItemLamps:hover,
+.listItemLamps:focus {
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+.titleTypeLamp {
+  padding: 0 25px 0 16px;
+  margin: 0;
+  font-size: 16px;
+  line-height: 42px;
+  font-weight: 500;
+  color: #000;
+  text-transform: uppercase;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.listItemLamp:hover .listLamps,
+.listItemLamp:focus .listLamps {
+  display: block;
+  background-color: rgba(250, 188, 15, 0.9);
+}
+
+@media (min-width: 1200px) {
+  .listItem {
+    padding: 0 20px;
+  }
+}

@@ -1,0 +1,127 @@
+[
+  {
+    "id": "black_antique",
+    "ccsColor": "#000000",
+    "theme": "dark"
+  },
+  {
+    "id": "black_matte",
+    "ccsColor": "#434343",
+    "theme": "dark"
+  },
+  {
+    "id": "silver_metallic",
+    "ccsColor": "#b7b7b7",
+    "theme": "light"
+  },
+  {
+    "id": "white",
+    "ccsColor": "#f3f3f3",
+    "theme": "light"
+  },
+  {
+    "id": "chocolate",
+    "ccsColor": "#660000",
+    "theme": "dark"
+  },
+  {
+    "id": "copper_antique",
+    "ccsColor": "#b87333",
+    "theme": "light"
+  },
+  {
+    "id": "gold_metallic",
+    "ccsColor": "#bf9000",
+    "theme": "light"
+  },
+  {
+    "id": "red",
+    "ccsColor": "#ff0000",
+    "theme": "light"
+  },
+  {
+    "id": "apricot",
+    "ccsColor": "#ffc000",
+    "theme": "light"
+  },
+  {
+    "id": "melon",
+    "ccsColor": "#f9f8bb",
+    "theme": "light"
+  },
+  {
+    "id": "yellow",
+    "ccsColor": "#ffff00",
+    "theme": "light"
+  },
+  {
+    "id": "lime",
+    "ccsColor": "#ccff00",
+    "theme": "light"
+  },
+  {
+    "id": "green_bright",
+    "ccsColor": "#00ff00",
+    "theme": "light"
+  },
+  {
+    "id": "malachite",
+    "ccsColor": "#0bda51",
+    "theme": "light"
+  },
+  {
+    "id": "green_grass",
+    "ccsColor": "#70ad47",
+    "theme": "light"
+  },
+  {
+    "id": "turquoise",
+    "ccsColor": "#30d5c8",
+    "theme": "light"
+  },
+  {
+    "id": "blue",
+    "ccsColor": "#00bfff",
+    "theme": "light"
+  },
+  {
+    "id": "dark_blue",
+    "ccsColor": "#0000ff",
+    "theme": "dark"
+  },
+  {
+    "id": "purple",
+    "ccsColor": "#800080",
+    "theme": "dark"
+  },
+  {
+    "id": "plum",
+    "ccsColor": "#660066",
+    "theme": "dark"
+  },
+  {
+    "id": "cherry",
+    "ccsColor": "#800040",
+    "theme": "dark"
+  },
+  {
+    "id": "dark_lilac",
+    "ccsColor": "#a64d79",
+    "theme": "light"
+  },
+  {
+    "id": "lilac",
+    "ccsColor": "#c8a2c8",
+    "theme": "light"
+  },
+  {
+    "id": "light_pink",
+    "ccsColor": "#ffc0cb",
+    "theme": "light"
+  },
+  {
+    "id": "bright_pink",
+    "ccsColor": "#ea9999",
+    "theme": "light"
+  }
+]

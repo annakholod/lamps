@@ -1,0 +1,685 @@
+[
+  {
+    "id": "nXnLAIeRF",
+    "color": "black_antique",
+    "title": "черный антик",
+    "type": "stand",
+    "photos": [
+      "black_antique_pd_01",
+      "black_antique_pd_02",
+      "black_antique_pd_03",
+      "black_antique_pd_04",
+      "black_antique_pd_05"
+    ],
+    "video": "https://www.youtube.com/watch?v=pCBW8GATdOU"
+  },
+  {
+    "id": "NUq7_x3s2",
+    "color": "black_matte",
+    "title": "черный матовый",
+    "type": "stand",
+    "photos": [
+      "black_matte_pd_01",
+      "black_matte_pd_02",
+      "black_matte_pd_03",
+      "black_matte_pd_04",
+      "black_matte_pd_05"
+    ],
+    "video": "https://www.youtube.com/watch?v=-Rj3PjWcY8E"
+  },
+  {
+    "id": "QMtWP10vF",
+    "color": "silver_metallic",
+    "title": "серебро металлик",
+    "type": "stand",
+    "photos": [
+      "silver_metallic_pd_01",
+      "silver_metallic_pd_02",
+      "silver_metallic_pd_03",
+      "silver_metallic_pd_04"
+    ],
+    "video": "https://www.youtube.com/watch?v=dBVJivX_Rn0"
+  },
+  {
+    "id": "LgEn_A9nc",
+    "color": "white",
+    "title": "белый",
+    "type": "stand",
+    "photos": [
+      "white_pd_01",
+      "white_pd_02",
+      "white_pd_03",
+      "white_pd_04",
+      "white_pd_05"
+    ],
+    "video": "https://www.youtube.com/watch?v=J2CULSOftcM"
+  },
+  {
+    "id": "tapAQYFNX",
+    "color": "chocolate",
+    "title": "шоколад",
+    "type": "stand",
+    "photos": [
+      "chocolate_pd_01",
+      "chocolate_pd_02",
+      "chocolate_pd_03",
+      "chocolate_pd_04",
+      "chocolate_pd_05",
+      "chocolate_pd_06",
+      "chocolate_pd_07",
+      "chocolate_pd_08"
+    ],
+    "video": "https://www.youtube.com/watch?v=bz6LhBGMxNQ"
+  },
+  {
+    "id": "uHY1p0Pz0",
+    "color": "copper_antique",
+    "title": "медный антик",
+    "type": "stand",
+    "photos": [
+      "copper_antique_pd_01",
+      "copper_antique_pd_02",
+      "copper_antique_pd_03",
+      "copper_antique_pd_04"
+    ],
+    "video": "https://www.youtube.com/watch?v=SWklDn397Eo"
+  },
+  {
+    "id": "sxgtmStYdN",
+    "color": "gold_metallic",
+    "title": "золотой металлик",
+    "type": "stand",
+    "photos": [
+      "gold_metallic_pd_01",
+      "gold_metallic_pd_02",
+      "gold_metallic_pd_03",
+      "gold_metallic_pd_04"
+    ],
+    "video": "https://www.youtube.com/watch?v=fTjvA7tdGJs"
+  },
+  {
+    "id": "RsGT5iZ_0",
+    "color": "red",
+    "title": "красный",
+    "type": "stand",
+    "photos": ["red_pd_01", "red_pd_02", "red_pd_03", "red_pd_04", "red_pd_05"],
+    "video": "https://www.youtube.com/watch?v=LKq_C_AONCU"
+  },
+  {
+    "id": "uB9ZetcuYT",
+    "color": "apricot",
+    "title": "абрикос",
+    "type": "stand",
+    "photos": [
+      "apricot_pd_01",
+      "apricot_pd_02",
+      "apricot_pd_03",
+      "apricot_pd_04",
+      "apricot_pd_05",
+      "apricot_pd_06",
+      "apricot_pd_07"
+    ],
+    "video": "https://www.youtube.com/watch?v=sNKzrzaiss0"
+  },
+  {
+    "id": "enDiRqe89",
+    "color": "melon",
+    "title": "дыня",
+    "type": "stand",
+    "photos": ["melon_pd_01", "melon_pd_02", "melon_pd_03", "melon_pd_04"],
+    "video": "https://www.youtube.com/watch?v=WM4E5ypwpOk"
+  },
+  {
+    "id": "p9PR8qWI8M",
+    "color": "yellow",
+    "title": "желтый",
+    "type": "stand",
+    "photos": [
+      "yellow_pd_01",
+      "yellow_pd_02",
+      "yellow_pd_03",
+      "yellow_pd_04",
+      "yellow_pd_05"
+    ],
+    "video": "https://www.youtube.com/watch?v=jFERN15XU0Y"
+  },
+  {
+    "id": "bUCm0FIGO",
+    "color": "lime",
+    "title": "лайм",
+    "type": "stand",
+    "photos": [
+      "lime_pd_01",
+      "lime_pd_02",
+      "lime_pd_03",
+      "lime_pd_04",
+      "lime_pd_05"
+    ],
+    "video": ""
+  },
+  {
+    "id": "M5xBG-s9Jo",
+    "color": "green_bright",
+    "title": "зеленый яркий",
+    "type": "stand",
+    "photos": [
+      "green_bright_pd_01",
+      "green_bright_pd_02",
+      "green_bright_pd_03",
+      "green_bright_pd_04",
+      "green_bright_pd_05"
+    ],
+    "video": "https://www.youtube.com/watch?v=j1ebbkuMjNA"
+  },
+  {
+    "id": "T4lFvlpy2",
+    "color": "malachite",
+    "title": "малахит (лак)",
+    "type": "stand",
+    "photos": [
+      "malachite_pd_01",
+      "malachite_pd_02",
+      "malachite_pd_03",
+      "malachite_pd_04",
+      "malachite_pd_05",
+      "malachite_pd_06"
+    ],
+    "video": "https://www.youtube.com/watch?v=Ui9j1L28pHQ"
+  },
+  {
+    "id": "8DDzBMIGQz",
+    "color": "green_grass",
+    "title": "зеленый (травка)",
+    "type": "stand",
+    "photos": [
+      "green_grass_pd_01",
+      "green_grass_pd_02",
+      "green_grass_pd_03",
+      "green_grass_pd_04"
+    ],
+    "video": "https://www.youtube.com/watch?v=NVZdTK8vglg"
+  },
+  {
+    "id": "BcIVPnCBu",
+    "color": "turquoise",
+    "title": "бирюза",
+    "type": "stand",
+    "photos": [
+      "turquoise_pd_01",
+      "turquoise_pd_02",
+      "turquoise_pd_03",
+      "turquoise_pd_04",
+      "turquoise_pd_05"
+    ],
+    "video": "https://www.youtube.com/watch?v=ZFCsB3LIcKc"
+  },
+  {
+    "id": "_wC3ADk-N",
+    "color": "blue",
+    "title": "голубой",
+    "type": "stand",
+    "photos": [
+      "blue_pd_01",
+      "blue_pd_02",
+      "blue_pd_03",
+      "blue_pd_04",
+      "blue_pd_05"
+    ],
+    "video": ""
+  },
+  {
+    "id": "zXTzkaRk5",
+    "color": "dark_blue",
+    "title": "синий",
+    "type": "stand",
+    "photos": [
+      "dark_blue_pd_01",
+      "dark_blue_pd_02",
+      "dark_blue_pd_03",
+      "dark_blue_pd_04"
+    ],
+    "video": "https://www.youtube.com/watch?v=EtlsB_bEcFE"
+  },
+  {
+    "id": "SvE-9ZqIE",
+    "color": "purple",
+    "title": "фиолетовый",
+    "type": "stand",
+    "photos": ["purple_pd_01", "purple_pd_02", "purple_pd_03", "purple_pd_04"],
+    "video": "https://www.youtube.com/watch?v=egKY9t12AUk"
+  },
+  {
+    "id": "X2zrQVLrSe",
+    "color": "plum",
+    "title": "слива (лак)",
+    "type": "stand",
+    "photos": [
+      "plum_pd_01",
+      "plum_pd_02",
+      "plum_pd_03",
+      "plum_pd_04",
+      "plum_pd_05"
+    ],
+    "video": "https://www.youtube.com/watch?v=HOqPV4wUQ0Y"
+  },
+  {
+    "id": "eV5MDleuD",
+    "color": "cherry",
+    "title": "вишня (лак)",
+    "type": "stand",
+    "photos": [
+      "cherry_pd_01",
+      "cherry_pd_02",
+      "cherry_pd_03",
+      "cherry_pd_04",
+      "cherry_pd_05"
+    ],
+    "video": "https://www.youtube.com/watch?v=zSjJ8nBZrnw"
+  },
+  {
+    "id": "672HUx9r1",
+    "color": "dark_lilac",
+    "title": "темная сирень вишня",
+    "type": "stand",
+    "photos": [
+      "dark_lilac_pd_01",
+      "dark_lilac_pd_02",
+      "dark_lilac_pd_03",
+      "dark_lilac_pd_04",
+      "dark_lilac_pd_05"
+    ],
+    "video": "https://www.youtube.com/watch?v=_3qCVPhxZVA"
+  },
+  {
+    "id": "85WFNPMmtE",
+    "color": "lilac",
+    "title": "сирень",
+    "type": "stand",
+    "photos": ["lilac_pd_01", "lilac_pd_02", "lilac_pd_03", "lilac_pd_04"],
+    "video": "https://www.youtube.com/watch?v=j4sMOg1ZnLs"
+  },
+  {
+    "id": "kBLTJK8M1",
+    "color": "light_pink",
+    "title": "розовый нежный",
+    "type": "stand",
+    "photos": [
+      "light_pink_pd_01",
+      "light_pink_pd_02",
+      "light_pink_pd_03",
+      "light_pink_pd_04"
+    ],
+    "video": "https://www.youtube.com/watch?v=dlrrGagbqCU"
+  },
+  {
+    "id": "4SU9pDuEfn",
+    "color": "bright_pink",
+    "title": "розовый яркий",
+    "type": "stand",
+    "photos": [
+      "bright_pink_pd_01",
+      "bright_pink_pd_02",
+      "bright_pink_pd_03",
+      "bright_pink_pd_04"
+    ],
+    "video": "https://www.youtube.com/watch?v=U7M7dZMLfXU"
+  },
+  {
+    "id": "_qvcUELoZ",
+    "color": "black_antique",
+    "title": "черный антик",
+    "type": "pin",
+    "photos": [
+      "black_antique_pr_01",
+      "black_antique_pr_02",
+      "black_antique_pr_03",
+      "black_antique_pr_04",
+      "black_antique_pr_05",
+      "black_antique_pr_06",
+      "black_antique_pr_07",
+      "black_antique_pr_08"
+    ],
+    "video": "https://www.youtube.com/watch?v=1J4NQHgm8s8"
+  },
+  {
+    "id": "Y5ynXp5BT",
+    "color": "black_matte",
+    "title": "черный матовый",
+    "type": "pin",
+    "photos": [
+      "black_matte_pr_01",
+      "black_matte_pr_02",
+      "black_matte_pr_03",
+      "black_matte_pr_04",
+      "black_matte_pr_05",
+      "black_matte_pr_06"
+    ],
+    "video": "https://www.youtube.com/watch?v=oYbY-f671nE"
+  },
+  {
+    "id": "VyT4Zy7pTV",
+    "color": "silver_metallic",
+    "title": "серебро металлик",
+    "type": "pin",
+    "photos": [
+      "silver_metallic_pr_01",
+      "silver_metallic_pr_02",
+      "silver_metallic_pr_03",
+      "silver_metallic_pr_04"
+    ],
+    "video": "https://www.youtube.com/watch?v=kY6BVKTOaos"
+  },
+  {
+    "id": "1QDhEFDqF4",
+    "color": "white",
+    "title": "белый",
+    "type": "pin",
+    "photos": [
+      "white_pr_01",
+      "white_pr_02",
+      "white_pr_03",
+      "white_pr_04",
+      "white_pr_05"
+    ],
+    "video": "https://www.youtube.com/watch?v=-szzCRNtHI4"
+  },
+  {
+    "id": "Sc7FNN5A7",
+    "color": "chocolate",
+    "title": "шоколад",
+    "type": "pin",
+    "photos": [
+      "chocolate_pr_01",
+      "chocolate_pr_02",
+      "chocolate_pr_03",
+      "chocolate_pr_04",
+      "chocolate_pr_05",
+      "chocolate_pr_06",
+      "chocolate_pr_07"
+    ],
+    "video": "https://www.youtube.com/watch?v=DOZlGNgIPY4"
+  },
+  {
+    "id": "IOTlkgNSvq",
+    "color": "copper_antique",
+    "title": "медный антик",
+    "type": "pin",
+    "photos": [
+      "copper_antique_pr_01",
+      "copper_antique_pr_02",
+      "copper_antique_pr_03",
+      "copper_antique_pr_04",
+      "copper_antique_pr_05"
+    ],
+    "video": "https://www.youtube.com/watch?v=KszOAs2r11Y"
+  },
+  {
+    "id": "SqDxdGN-U",
+    "color": "gold_metallic",
+    "title": "золотой металлик",
+    "type": "pin",
+    "photos": [
+      "gold_metallic_pr_01",
+      "gold_metallic_pr_02",
+      "gold_metallic_pr_03",
+      "gold_metallic_pr_04"
+    ],
+    "video": "https://www.youtube.com/watch?v=3LBdjfdC-gM"
+  },
+  {
+    "id": "GPfw6wDJAy",
+    "color": "red",
+    "title": "красный",
+    "type": "pin",
+    "photos": [
+      "red_pr_01",
+      "red_pr_02",
+      "red_pr_03",
+      "red_pr_04",
+      "red_pr_05",
+      "red_pr_06",
+      "red_pr_07"
+    ],
+    "video": "https://www.youtube.com/watch?v=FZFSBRAJWRs"
+  },
+  {
+    "id": "r5VBNcAbW",
+    "color": "apricot",
+    "title": "абрикос",
+    "type": "pin",
+    "photos": [
+      "apricot_pr_01",
+      "apricot_pr_02",
+      "apricot_pr_03",
+      "apricot_pr_04",
+      "apricot_pr_05"
+    ],
+    "video": "https://www.youtube.com/watch?v=DFhIZyPt_1M"
+  },
+  {
+    "id": "bUUck7kHk0",
+    "color": "melon",
+    "title": "дыня",
+    "type": "pin",
+    "photos": [
+      "melon_pr_01",
+      "melon_pr_02",
+      "melon_pr_03",
+      "melon_pr_04",
+      "melon_pr_05",
+      "melon_pr_06",
+      "melon_pr_07"
+    ],
+    "video": "https://www.youtube.com/watch?v=tVRiB9j0jwg"
+  },
+  {
+    "id": "2I_Se6Htm",
+    "color": "yellow",
+    "title": "желтый",
+    "type": "pin",
+    "photos": [
+      "yellow_pr_01",
+      "yellow_pr_02",
+      "yellow_pr_03",
+      "yellow_pr_04",
+      "yellow_pr_05",
+      "yellow_pr_06",
+      "yellow_pr_07"
+    ],
+    "video": "https://www.youtube.com/watch?v=mMy-FKSG12U"
+  },
+  {
+    "id": "m99jigW4Yl",
+    "color": "lime",
+    "title": "лайм",
+    "type": "pin",
+    "photos": [
+      "lime_pr_01",
+      "lime_pr_02",
+      "lime_pr_03",
+      "lime_pr_04",
+      "lime_pr_05"
+    ],
+    "video": ""
+  },
+  {
+    "id": "dT9AN2Rc1",
+    "color": "green_bright",
+    "title": "зеленый яркий",
+    "type": "pin",
+    "photos": [
+      "green_bright_pr_01",
+      "green_bright_pr_02",
+      "green_bright_pr_03",
+      "green_bright_pr_04",
+      "green_bright_pr_05"
+    ],
+    "video": "https://www.youtube.com/watch?v=gkQLO245tQ4"
+  },
+  {
+    "id": "spAH-GK9Sw",
+    "color": "malachite",
+    "title": "малахит (лак)",
+    "type": "pin",
+    "photos": [
+      "malachite_pr_01",
+      "malachite_pr_02",
+      "malachite_pr_03",
+      "malachite_pr_04",
+      "malachite_pr_05"
+    ],
+    "video": "https://www.youtube.com/watch?v=-iVAKleGurM"
+  },
+  {
+    "id": "6Uo5jdQ4g",
+    "color": "green_grass",
+    "title": "зеленый (травка)",
+    "type": "pin",
+    "photos": [
+      "green_grass_pr_01",
+      "green_grass_pr_02",
+      "green_grass_pr_03",
+      "green_grass_pr_04",
+      "green_grass_pr_05"
+    ],
+    "video": "https://www.youtube.com/watch?v=NpCZDFXwvBA"
+  },
+  {
+    "id": "b8LaxAIvJ",
+    "color": "turquoise",
+    "title": "бирюза",
+    "type": "pin",
+    "photos": [
+      "turquoise_pr_01",
+      "turquoise_pr_02",
+      "turquoise_pr_03",
+      "turquoise_pr_04",
+      "turquoise_pr_05",
+      "turquoise_pr_06"
+    ],
+    "video": "https://www.youtube.com/watch?v=NnAdZWhP1M8"
+  },
+  {
+    "id": "wl4FvvWPPB",
+    "color": "blue",
+    "title": "голубой",
+    "type": "pin",
+    "photos": [
+      "blue_pr_01",
+      "blue_pr_02",
+      "blue_pr_03",
+      "blue_pr_04",
+      "blue_pr_05"
+    ],
+    "video": ""
+  },
+  {
+    "id": "Ys1OTlNW8",
+    "color": "dark_blue",
+    "title": "синий",
+    "type": "pin",
+    "photos": [
+      "dark_blue_pr_01",
+      "dark_blue_pr_02",
+      "dark_blue_pr_03",
+      "dark_blue_pr_04"
+    ],
+    "video": "https://www.youtube.com/watch?v=ym85Yj_VLbM"
+  },
+  {
+    "id": "cyPD7EZ8O0",
+    "color": "purple",
+    "title": "фиолетовый",
+    "type": "pin",
+    "photos": ["purple_pr_01", "purple_pr_02", "purple_pr_03", "purple_pr_04"],
+    "video": "https://www.youtube.com/watch?v=yUP1GQsHUxQ"
+  },
+  {
+    "id": "5KHDOgHB_m",
+    "color": "plum",
+    "title": "слива (лак)",
+    "type": "pin",
+    "photos": [
+      "plum_pr_01",
+      "plum_pr_02",
+      "plum_pr_03",
+      "plum_pr_04",
+      "plum_pr_05",
+      "plum_pr_06",
+      "plum_pr_07"
+    ],
+    "video": "https://www.youtube.com/watch?v=4zMeLt-_yaI"
+  },
+  {
+    "id": "mAQxaBwkr",
+    "color": "cherry",
+    "title": "вишня (лак)",
+    "type": "pin",
+    "photos": [
+      "cherry_pr_01",
+      "cherry_pr_02",
+      "cherry_pr_03",
+      "cherry_pr_04",
+      "cherry_pr_05",
+      "cherry_pr_06",
+      "cherry_pr_07"
+    ],
+    "video": "https://www.youtube.com/watch?v=bochiULzG9A"
+  },
+  {
+    "id": "wdyNxZLV2z",
+    "color": "dark_lilac",
+    "title": "темная сирень вишня",
+    "type": "pin",
+    "photos": [
+      "dark_lilac_pr_01",
+      "dark_lilac_pr_02",
+      "dark_lilac_pr_03",
+      "dark_lilac_pr_04",
+      "dark_lilac_pr_05"
+    ],
+    "video": "https://www.youtube.com/watch?v=hlSa_zt2RbA"
+  },
+  {
+    "id": "XTzuYAt3Y",
+    "color": "lilac",
+    "title": "сирень",
+    "type": "pin",
+    "photos": [
+      "lilac_pr_01",
+      "lilac_pr_02",
+      "lilac_pr_03",
+      "lilac_pr_04",
+      "lilac_pr_05"
+    ],
+    "video": "https://www.youtube.com/watch?v=MdiHuxFj3Gw"
+  },
+  {
+    "id": "BJb27hadQu",
+    "color": "light_pink",
+    "title": "розовый нежный",
+    "type": "pin",
+    "photos": [
+      "light_pink_pr_01",
+      "light_pink_pr_02",
+      "light_pink_pr_03",
+      "light_pink_pr_04",
+      "light_pink_pr_05"
+    ],
+    "video": "https://www.youtube.com/watch?v=VtzgPg6LpTw"
+  },
+  {
+    "id": "26BLF-wLK",
+    "color": "bright_pink",
+    "title": "розовый яркий",
+    "type": "pin",
+    "photos": [
+      "bright_pink_pr_01",
+      "bright_pink_pr_02",
+      "bright_pink_pr_03",
+      "bright_pink_pr_04",
+      "bright_pink_pr_05"
+    ],
+    "video": "https://www.youtube.com/watch?v=3MIF4m2bBaE"
+  }
+]

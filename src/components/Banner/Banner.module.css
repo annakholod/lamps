@@ -1,0 +1,14 @@
+.overlay {
+  margin-bottom: 26px;
+}
+
+.banner {
+  margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+  .overlay {
+    padding: 0 20px;
+    margin-bottom: 32px;
+  }
+}

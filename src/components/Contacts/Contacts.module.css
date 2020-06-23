@@ -1,0 +1,68 @@
+.overlay {
+  padding: 0 10px;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+.title {
+  padding: 0;
+  margin: 0 0 24px 0;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.textWrapper {
+  margin-bottom: 14px;
+}
+
+.name {
+  padding: 0;
+  margin: 0;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.value {
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.map {
+  margin-bottom: 20px;
+  width: 100%;
+  height: 344px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+@media (min-width: 768px) {
+  .overlay {
+    padding: 0 20px;
+  }
+
+  .title {
+    font-size: 30px;
+    line-height: 34px;
+  }
+
+  .textWrapper {
+    display: flex;
+  }
+
+  .name {
+    margin-right: 10px;
+    font-size: 16px;
+  }
+
+  .map {
+    height: 390px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .title {
+    margin-bottom: 36px;
+  }
+}

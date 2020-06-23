@@ -1,0 +1,122 @@
+.compareItem {
+  margin-bottom: 10px;
+  width: 49%;
+  text-align: center;
+}
+
+.compareItemOverlay {
+  padding: 4px;
+  border-left: 1px solid rgb(224, 222, 222);
+  border-right: 1px solid rgb(224, 222, 222);
+  border-bottom: 1px solid rgb(224, 222, 222);
+}
+
+.mainPhoto {
+  margin-bottom: 6px;
+  width: 100%;
+  height: 180px;
+  object-fit: contain;
+}
+
+.title {
+  padding: 0;
+  margin: 0 0 14px 0;
+  font-size: 14px;
+  font-weight: 500;
+  text-transform: capitalize;
+}
+
+.listColors {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+  margin: 0 auto 10px auto;
+  max-width: 350px;
+  list-style: none;
+}
+
+.listColorsItem {
+  padding: 0;
+  margin: 2px;
+  width: 26px;
+  height: 26px;
+}
+
+.listColorsItemBtn {
+  position: relative;
+  padding: 0;
+  margin: 0;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  cursor: pointer;
+  outline: none;
+}
+
+.listColorsItemBtn:hover,
+.listColorsItemBtn:focus {
+  border: 1px solid rgb(148, 148, 148);
+}
+
+.iconDarkTheme,
+.iconLightTheme {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  padding: 0;
+  margin: 0;
+  font-size: 14px;
+}
+
+.iconLightTheme {
+  color: #000;
+}
+
+.iconDarkTheme {
+  color: #fff;
+}
+
+@media (min-width: 500px) {
+  .mainPhoto {
+    height: 220px;
+  }
+}
+
+@media (min-width: 768px) {
+  .compareItem {
+    margin-bottom: 14px;
+    width: 32%;
+  }
+
+  .compareItemOverlay {
+    padding: 10px;
+  }
+
+  .mainPhoto {
+    margin-bottom: 10px;
+    height: 280px;
+  }
+
+  .title {
+    margin: 0 0 16px 0;
+    font-size: 16px;
+  }
+
+  .listColors {
+    margin-bottom: 20px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .listColorsItem {
+    width: 22px;
+    height: 22px;
+  }
+
+  .listColorsItemBtn {
+    width: 22px;
+    height: 22px;
+  }
+}

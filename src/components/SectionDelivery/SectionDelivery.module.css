@@ -1,0 +1,57 @@
+.overlay {
+  padding-bottom: 10px;
+  margin: 0 auto 24px auto;
+  max-width: 1160px;
+  background-color: #cccccc;
+}
+
+.title {
+  position: relative;
+  padding: 24px 10px;
+  margin: 0;
+  max-width: 300px;
+  font-size: 30px;
+  line-height: 34px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.title::after {
+  position: absolute;
+  content: "";
+  right: 0;
+  top: 24px;
+  width: 72px;
+  height: 48px;
+  background-image: url(../../img/delivery.png);
+}
+
+.delivery {
+  padding: 0 10px;
+  margin: 0 0 20px 0;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+@media (min-width: 768px) {
+  .overlay {
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+
+  .title {
+    max-width: 480px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .overlay {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0 auto 24px auto;
+  }
+
+  .delivery {
+    padding: 0;
+  }
+}

@@ -1,0 +1,48 @@
+.overlay {
+  padding: 0 10px;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+.title {
+  padding: 0;
+  margin: 0 0 24px 0;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.image {
+  margin: 0 auto 20px auto;
+}
+
+.delivery {
+  padding: 0;
+  margin: 0 0 20px 0;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+@media (min-width: 600px) {
+  .image {
+    margin-right: 20px;
+    float: left;
+  }
+}
+
+@media (min-width: 768px) {
+  .overlay {
+    padding: 0 20px;
+  }
+
+  .title {
+    font-size: 30px;
+    line-height: 34px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .title {
+    margin-bottom: 36px;
+  }
+}
