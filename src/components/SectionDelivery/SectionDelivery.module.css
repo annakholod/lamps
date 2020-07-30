@@ -19,8 +19,8 @@
 .title::after {
   position: absolute;
   content: "";
-  right: 0px;
-  top: 20px;
+  right: 0;
+  top: 24px;
   width: 72px;
   height: 48px;
   background-image: url(../../img/delivery.png);
